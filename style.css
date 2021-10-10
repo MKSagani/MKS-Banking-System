@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Candal&family=Squada+One');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUSC6DRdlthBVBwu2FZPRKbt74Vt9ckXVKBA&usqp=CAU');
+    margin: 0px;
+}
+
+.intro {
+    background:black;
+}
+
+#aa,
+#aaa,
+#aaaa,
+#aaaaa {
+    position: relative;
+    text-align: center;
+    font-family: 'Candal', sans-serif;
+    font-variant: normal;
+    font-size: 250%;
+    
+    
+}
+#mks {
+    float:left;
+}
+
+#aa {
+    top: 25px;
+    color:goldenrod;
+    margin-bottom:25px;
+    font-size:180%;
+    
+}
+
+#aaa {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom:20px;
+    color:goldenrod;
+    
+}
+
+#aaaa {
+    font-family:cursive;
+    margin-bottom:20px;
+    color:goldenrod;
+    font-size:150%;
+    
+}
+
+#aaaaa {
+    
+    font-family: 'Times New Roman', Times, serif;
+    color:goldenrod;
+    font-size: 24px;
+    font-weight: bolder;
+    font-size:120%;
+}
+
+footer {
+    
+    position: relative;
+    
+    color:goldenrod;
+    background-color:black;
+    margin: 0px;
+}
+
+footer p {
+    font-family:cursive;
+    margin: 0;
+    font-size: 15px;
+    top: 100px;
+}
+
+@media only screen and (orientation:portrait) {
+    .intro {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    .act {
+        padding-bottom: 100px;
+    }
+}
+
