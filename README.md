@@ -10,6 +10,7 @@ _**Front end**_
  - HTML
  - CSS
  - Bootstrap
+ - Javascript
 
 
 _**Back end**_
