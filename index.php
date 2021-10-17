@@ -24,7 +24,7 @@
             <div class="row intro py-1" style="background-color:black;">
               <div class="col-sm-12 col-md">
                 <div class="heading text-center my-5">
-                <img src="logo.jpej"><p id="aa">WELCOME to the</p>
+                <img src="logo.jpej" id= mks><p id="aa">WELCOME to the</p>
                 <p id="aaa">MKS BANKING SYSTEM</p>
                 <p id="aaaa">"A Tradition of Trust"</p>
                 <p id="aaaaa">This system makes the transaction of money trouble-free !</p>
